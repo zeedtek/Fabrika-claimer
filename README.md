@@ -1,6 +1,6 @@
- This how run the bot in phone ( TERMUX )
+ ~~ This how run the bot in phone ( TERMUX )
 
-1/ ```bash pkg update && pkg upgrade -y && pkg install python git nano -y```
+1/ ```pkg update && pkg upgrade -y && pkg install python git nano -y```
 
 2/ ```git clone https://github.com/zeedtek/Fabrika-claimer.git```
 
@@ -16,7 +16,7 @@
 
 
 
-for windows :
+~~ for windows :
 
 1/ ```git clone https://github.com/zeedtek/Fabrika-claimer.git```
 
