@@ -1,4 +1,4 @@
-This how run the bot in phone ( TERMUX )
+~ >>> This how run the bot in phone ( TERMUX )
 
 1/ pkg update && pkg upgrade -y && pkg install python git nano -y
 
